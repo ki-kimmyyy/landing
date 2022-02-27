@@ -1,0 +1,19 @@
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.portrait{
+	padding: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 0px;
+    padding-left: 10px;
+	background: rgb(204, 149, 68);
+}
+
+.portrait img {
+	width: 200px;
+	border-radius: 7px;
+}
